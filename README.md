@@ -7,6 +7,19 @@ A fast, clean web app for searching GitHub users and viewing their profiles, bui
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-5-FF4154?logo=reactquery&logoColor=white)
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>User profile & recent searches</b></td>
+    <td align="center"><b>Live suggestions while typing</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshot-search.png" alt="GitHub Finder showing Linus Torvalds' profile card and a list of recent searches" width="400"></td>
+    <td><img src="docs/screenshot-suggestions.png" alt="GitHub Finder showing a dropdown of user suggestions for the search 'dan'" width="400"></td>
+  </tr>
+</table>
+
 ---
 
 ## ✨ Features
